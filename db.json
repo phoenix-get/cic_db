@@ -1,0 +1,13 @@
+{
+  "posts": 
+    { "alr1": "Heater Not Working",
+      "alr1_pr": 1,
+      "alr2": "BWS not Connected",
+      "alr2_pr": 0,
+      "alr3": "",
+      "alr3_pr": ""
+    },
+  "profile": {
+    "name": "cic"
+  }
+}
